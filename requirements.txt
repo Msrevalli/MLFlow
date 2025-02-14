@@ -3,3 +3,6 @@ scikit-learn
 pandas
 numpy
 uv
+keras
+tensorflow
+hyperopt
